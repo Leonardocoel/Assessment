@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PrintToLogpointModuleInspectionState">
+    <option name="disabledModuleNames">
+      <set>
+        <option value="Exercicio10" />
+        <option value="Exercicio2" />
+        <option value="Exercicio3" />
+        <option value="Exercicio4" />
+        <option value="Exercicio5" />
+        <option value="Exercicio6" />
+        <option value="Exercicio7" />
+        <option value="Exercicio8" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
